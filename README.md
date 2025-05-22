@@ -1,0 +1,1 @@
+# resumo-dio-lab-azure-cognitive-search
